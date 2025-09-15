@@ -10,7 +10,6 @@ playButton.addEventListener('click', () => {
         video.play();
         renderFrame();
     }
-    isPlaying = !isPlaying;
 });
 function renderFrame() { 
     const MAX_WIDTH = 200;
