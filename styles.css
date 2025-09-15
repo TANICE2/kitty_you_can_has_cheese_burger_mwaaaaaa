@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+}
+
+button {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #333;
+    background-color: #fff;
+}
+
+#ascii-output {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    line-height: 0.9;
+}
